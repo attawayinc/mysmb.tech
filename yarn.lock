@@ -2355,20 +2355,27 @@
     axios "0.19.1"
     ghost-ignition "^3.0.0"
 
-"@tryghost/helpers-gatsby@1.0.31":
-  version "1.0.31"
-  resolved "https://registry.yarnpkg.com/@tryghost/helpers-gatsby/-/helpers-gatsby-1.0.31.tgz#01478d70540afb3b627986788d9812f6fb68183c"
-  integrity sha512-zx3pYNHX/T+iq+ag3cMuyLH5b0HfRvM6SaTkLReS1Me8+pKYWD++HOVhH+h1XuNF9OHIodQzF8j6MmC3qvU4HQ==
+"@tryghost/helpers-gatsby@1.0.35":
+  version "1.0.35"
+  resolved "https://registry.yarnpkg.com/@tryghost/helpers-gatsby/-/helpers-gatsby-1.0.35.tgz#3c2f06a66112e65fc1aa5dcfb34c8b69a977d0a4"
+  integrity sha512-TF18VRqgGXOhYmFx+gVnzr15FHsiRR8dUqzGy/21Nq9w3KDgAH1nmjGhTcjYAmBDP8H+5eP99NUHhZysbeSPuw==
   dependencies:
     "@reach/router" "^1.2.1"
-    "@tryghost/helpers" "^1.1.27"
+    "@tryghost/helpers" "^1.1.31"
     gatsby-link "^2.0.7"
     prop-types "^15.6.2"
 
-"@tryghost/helpers@1.1.27", "@tryghost/helpers@^1.1.27":
+"@tryghost/helpers@1.1.27":
   version "1.1.27"
   resolved "https://registry.yarnpkg.com/@tryghost/helpers/-/helpers-1.1.27.tgz#4686e709971df432f08cf52db787f671ad182e3b"
   integrity sha512-5DkGcbJHJopVk1S3zvEzPgy8WAHWysQHhUqVSL0dhfvUITcrQuwcqVERi72r/rT/gixqyb2lNBVIsSo1wevERA==
+  dependencies:
+    lodash-es "^4.17.11"
+
+"@tryghost/helpers@^1.1.31":
+  version "1.1.31"
+  resolved "https://registry.yarnpkg.com/@tryghost/helpers/-/helpers-1.1.31.tgz#2a1ae5e2eb6b9175445e14949657ad17a5bcb5ac"
+  integrity sha512-PzW+H6sdHbVGa0lAw0zM6nRMlm+tSby0EqqIgN8+/NsolBTp4kZgu+kTs94kUzEwM8t3P5Ee3Le40pJH5kRpZw==
   dependencies:
     lodash-es "^4.17.11"
 
@@ -9937,6 +9944,11 @@ lodash@4.17.15, lodash@^4.11.1, lodash@^4.15.0, lodash@^4.16.4, lodash@^4.17.11,
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+
+lodash@4.17.19:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-update@^3.0.0:
   version "3.3.0"
