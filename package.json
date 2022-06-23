@@ -46,7 +46,7 @@
     "gatsby-plugin-advanced-sitemap": "1.5.4",
     "gatsby-plugin-catch-links": "2.3.3",
     "gatsby-plugin-feed": "2.5.3",
-    "gatsby-plugin-force-trailing-slashes": "1.0.4",
+    "gatsby-plugin-force-trailing-slashes": "1.0.6",
     "gatsby-plugin-manifest": "2.4.9",
     "gatsby-plugin-offline": "3.2.7",
     "gatsby-plugin-react-helmet": "3.3.2",
