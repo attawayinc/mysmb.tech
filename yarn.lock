@@ -1672,12 +1672,12 @@
     gatsby-link "^2.9.0"
     prop-types "^15.6.2"
 
-"@tryghost/helpers@1.1.99", "@tryghost/helpers@^1.1.70":
-  version "1.1.99"
-  resolved "https://registry.yarnpkg.com/@tryghost/helpers/-/helpers-1.1.99.tgz#1db57cc423e23e82bbe68ab1150a017f166aa98f"
-  integrity sha512-+sZf7uT5YvdSoLqppQ+QqDl2Y6SX/NSc0/rjHwlWIY+u1UjMRbitCZv1qB5/mrrNxfWNEC1nISAmAZ3yuQVMYA==
+"@tryghost/helpers@1.1.100", "@tryghost/helpers@^1.1.70":
+  version "1.1.100"
+  resolved "https://registry.yarnpkg.com/@tryghost/helpers/-/helpers-1.1.100.tgz#530a64e403d041a1dc60364d5b1da95dc5b6c98c"
+  integrity sha512-fNWFrPOiAxJo3tIYrCLCTG2iHM4MDxhbgsuYEb/q9BWME0J0xsswgYLgMRQGTghf5P5O2dhzskaYPbabRHXE6w==
   dependencies:
-    lodash-es "^4.17.11"
+    lodash-es "^4.17.21"
 
 "@turist/fetch@^7.1.7":
   version "7.2.0"
@@ -9695,7 +9695,7 @@ lockfile@^1.0.4:
   dependencies:
     signal-exit "^3.0.2"
 
-lodash-es@^4.17.11:
+lodash-es@^4.17.21:
   version "4.17.22"
   resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.22.tgz#eb7d123ec2470d69b911abe34f85cb694849b346"
   integrity sha512-XEawp1t0gxSi9x01glktRZ5HDy0HXqrM0x5pXQM98EaI0NxO6jVM7omDOxsuEo5UIASAnm2bRp1Jt/e0a2XU8Q==
